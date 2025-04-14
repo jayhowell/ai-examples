@@ -1,3 +1,5 @@
+# GranitePytorch
+
 This project does not require an nvidia process and doesn't use vllm(becuase it required cuda - nvidia processor)
 It works with just an intel projecessor.  This will not work with an AMD chipset. 
 
