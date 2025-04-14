@@ -4,6 +4,8 @@ This is my repository for sample ai python scripts.
 
 
 
+## granitepytorch Project
+
 Granite Models - I'm using the 3Billion model from hugging face because anything more will have my OOMkiller kill it in linux on my laptop.  
 This will work on most Modern laptops.  Please be aware that it's very slow.  You need to be patient. 
 
