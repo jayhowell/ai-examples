@@ -13,5 +13,5 @@ source granite_cpu_env/bin/activate
 pip install --upgrade pip
 pip install torch transformers accelerate
 cd granitepytorch
-python
+python granite_cpu.py
 ```
